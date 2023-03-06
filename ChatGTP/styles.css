@@ -1,0 +1,32 @@
+.game-container {
+    width: 400px;
+    margin: auto;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    font-size: 24px;
+    padding: 10px 20px;
+    margin-bottom: 20px;
+  }
+  
+  #guess-container {
+    margin-bottom: 20px;
+  }
+  
+  #guess-input {
+    font-size: 24px;
+    padding: 10px;
+    margin-right: 10px;
+    width: 80px;
+  }
+  
+  #result-container {
+    font-size: 24px;
+  }
+  
